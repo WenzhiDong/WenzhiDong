@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WenzhiDong
-- 👀 I’m interested in Guitar Play, GYM Work Out and Architecture Design.
+- 👀 I’m interested in Guitar Play, GYM Work Out, Anime and Architecture Design.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: dongwenzhi123@icloud.com
