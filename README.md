@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WenzhiDong
-- 👀 I’m interested in Guitar Play, GYM Work Out, Anime and Architecture Design.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Guitar Play, Gym Work Out, Anime and Architecture Design.
+- 🌱 I’m currently learning Python and SQL.
+- 💞️ I’m looking for an internship or a full-time job concerning with Data Analytics/Data Science.
 - 📫 How to reach me: dongwenzhi123@icloud.com
 
 <!---
